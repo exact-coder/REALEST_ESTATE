@@ -10,6 +10,8 @@ import Login from './containers/Login';
 import SingUp from './containers/SignUp';
 import Layout from './hocs/Layout';
 
+import "./scss/main.scss";
+
 const App = () => {
   return (
     <BrowserRouter>
